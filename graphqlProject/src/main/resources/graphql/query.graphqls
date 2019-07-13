@@ -1,0 +1,5 @@
+# This graphql contains all the metod names which the client can call.
+type Query {
+#Pass the id and fetch the names
+fetchName(id: String): DataModel
+}

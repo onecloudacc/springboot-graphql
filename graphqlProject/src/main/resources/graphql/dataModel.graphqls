@@ -1,0 +1,9 @@
+# The DataModel for names
+type DataModel {
+
+# The Firstname
+firstName: String
+
+# The Lastname
+lastName: String
+}
